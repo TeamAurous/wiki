@@ -1,0 +1,17 @@
+input: src
+output: wiki
+url: https://teamaurous.com/wiki/
+branding:
+  title: 😈 EVIL BIRD FREE SHIT 😈
+  label: Wiki/Mirror
+links:
+- text: Home
+  link: index.md
+- text: Arch Guide
+  link: arch
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+branding:
+  colors:
+    label:
+      background: "#252632"
